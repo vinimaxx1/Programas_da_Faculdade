@@ -1,7 +1,7 @@
-include <locale.h>
-include <stdio.h>
-include <stdlib.h>
-include <time.h>
+#include <locale.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
 // fazer a soma recursiva dos pares
 float somatorio (float x[], int cont) {
 	static float soma_auxiliar;
