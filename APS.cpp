@@ -28,7 +28,7 @@ float somatorio (float x[], int cont) {
 void gerar_aleatorio(float x[]){
 	int cont;
 	
-	for (cont=0; cont<=10;cont++){
+	for (cont=0; cont<10;cont++){
 		x[cont] = rand() % 50;
 		printf("%.1f : ", x[cont]);	
 	}
