@@ -1,3 +1,7 @@
+//Nome da disciplina: Programação Estruturada
+//Código da Turma: 931 
+//Nome e Matricula: Vinicius Nobrega Costa | 2022100111
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<locale.h>
